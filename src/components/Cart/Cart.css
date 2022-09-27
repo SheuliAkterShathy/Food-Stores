@@ -1,0 +1,9 @@
+.cart{
+    position: sticky;
+    top:0;
+
+}
+.ss{
+    display: flex;
+    flex-direction: column;
+}
